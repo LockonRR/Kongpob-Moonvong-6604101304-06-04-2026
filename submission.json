@@ -3,7 +3,7 @@
   "name": "ก้องภพ มูลวงค์",
   "github_repo": "https://github.com/LockonRR/Kongpob-Moonvong-6604101304-06-04-2026",
   "backend_base_url": "https://kongpob-moonvong-6604101304-06-04-2026-1.onrender.com",
-  "frontend_url": "https://kongpob-moonvong-6604101304-06-04-2026-2.netlify.app",
+  "frontend_url": "https://kongpob-moonvong-6604101304-06-04-202.netlify.app/#/",
   "api": {
     "health": "https://kongpob-moonvong-6604101304-06-04-2026-1.onrender.com/api/health",
     "tasks": "https://kongpob-moonvong-6604101304-06-04-2026-1.onrender.com/api/tasks"
